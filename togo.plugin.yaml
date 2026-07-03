@@ -1,0 +1,8 @@
+name: queue-kafka
+description: Queue backend — togo.Queue over Apache Kafka.
+priority: 91
+backend:
+  package: github.com/togo-framework/queue-kafka
+migrations: []
+frontend: { dir: "" }
+commands: []
